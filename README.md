@@ -1,4 +1,4 @@
-Name change to ECS Test 2
+Name change to ECS Test 3
 ===========
 
 [![Deploy to Docker Cloud](https://files.cloud.docker.com/images/deploy-to-dockercloud.svg)](https://cloud.docker.com/stack/deploy/)
